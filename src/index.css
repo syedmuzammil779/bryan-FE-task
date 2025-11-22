@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+html {
+    color-scheme: light; /* disables automatic dark mode adjustments */
+}
+  
