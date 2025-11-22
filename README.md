@@ -1,5 +1,5 @@
 # Front-end interview task
-
+ 
 ## Installation
 `npm install`
 note: you can use another package manager, npm here is just an example
